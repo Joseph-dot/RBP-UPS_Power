@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=01_Connector.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01_Connector.SchDoc|FileName=02_Battery.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01_Connector.SchDoc|FileName=03_Boost.SchDoc|SheetNumber= 
