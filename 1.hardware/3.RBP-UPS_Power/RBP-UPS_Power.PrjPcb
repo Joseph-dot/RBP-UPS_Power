@@ -98,6 +98,40 @@ GenerateClassCluster=0
 DocumentUniqueId=NZTNEGKN
 
 [Document4]
+DocumentPath=SCH\04_MCU.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MSNVDMMQ
+
+[Document5]
+DocumentPath=SCH\05_OVP_OCP.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YTIWSBHZ
+
+[Document6]
 DocumentPath=PCB\RBP-UPS_Power.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -112,9 +146,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MURDUHOI
 
-[Document5]
+[Document7]
 DocumentPath=USER_Lib\USER_Lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -129,9 +163,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CREVGWOY
 
-[Document6]
+[Document8]
 DocumentPath=USER_Lib\USER_Lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -146,7 +180,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JSPVEDMV
 
 [Configuration1]
 Name=Sources
