@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=T1-2
+Added Room: Name=BatteryCharge
+Added Room: Name=Boost
+Added Room: Name=Connector
+Added Room: Name=MCU
+Added Room: Name=OVP_OCP
+Added Room: Name=PowerDetective

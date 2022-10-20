@@ -199,6 +199,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MURDUHOI
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for RBP-UPS_Power\Design Rule Check - RBP-UPS_Power.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
