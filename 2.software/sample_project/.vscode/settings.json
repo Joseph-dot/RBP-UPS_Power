@@ -6,7 +6,8 @@
     "board/esp32-wrover-kit-3.3v.cfg"
   ],
   "files.associations": {
-    "gpio.h": "c"
+    "gpio.h": "c",
+    "i2c.h": "c"
   },
   "idf.flashType": "UART"
 }
