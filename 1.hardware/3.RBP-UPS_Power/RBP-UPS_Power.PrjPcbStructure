@@ -1,6 +1,7 @@
 Record=TopLevelDocument|FileName=BatteryCharge.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=BatteryCharge.SchDoc|FileName=Boost.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=BatteryCharge.SchDoc|FileName=Connector.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=BatteryCharge.SchDoc|FileName=CW2015.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=BatteryCharge.SchDoc|FileName=MCU.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=BatteryCharge.SchDoc|FileName=OVP_OCP.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=BatteryCharge.SchDoc|FileName=PowerDetective.SchDoc|SheetNumber= 

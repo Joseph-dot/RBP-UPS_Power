@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VCC_3V3 Pin=R44-2
+Added Component: Designator=R?(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=BQ27441_BIN Pin=R?-2
+Added Pin To Net: NetName=BQ_VDD Pin=C46-2
+Added Pin To Net: NetName=BQ_VDD Pin=R44-2
+Added Pin To Net: NetName=BQ_VDD Pin=U7-5
+Added Net: Name=BQ_VDD
+Added Member To Class: ClassName=PowerDetective Member=Component R? 10K/1%

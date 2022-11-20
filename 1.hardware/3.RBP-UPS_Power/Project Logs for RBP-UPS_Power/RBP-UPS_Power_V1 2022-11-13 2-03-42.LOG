@@ -1,0 +1,78 @@
+Removed Pin From Net: NetName=GND Pin=C46-1
+Removed Pin From Net: NetName=GND Pin=C47-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=R41-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=R42-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=R43-2
+Removed Pin From Net: NetName=VBAT Pin=R45-2
+Removed Pin From Net: NetName=GND Pin=R?-1
+Removed Pin From Net: NetName=GND Pin=U7-3
+Removed Pin From Net: NetName=VBAT Pin=U7-7
+Removed Pin From Net: NetName=GND Pin=U7-13
+Removed Member From Class: ClassName=PowerDetective Member=R41
+Removed Member From Class: ClassName=PowerDetective Member=R?
+Change Component Footprint: Designator=R45 Old Footprint=R1206_L New Footprint=R0402_L
+Change Component Footprint: Designator=U7 Old Footprint=VSON-12 New Footprint=CW2015
+Change Component Comment : Designator=R45 Old Comment=0.01R/1% New Comment=5.1K/1%
+Change Component Comment : Designator=C46 Old Comment=0.47uF/16V New Comment=1uF/16V
+Change Component Comment : Designator=R44 Old Comment=1.8M/1% New Comment=4.7K/1%
+Change Component Comment : Designator=R41 Old Comment=5.1K/1% New Comment=1K/1%
+Change Component Comment : Designator=R42 Old Comment=5.1K/1% New Comment=100R/1%
+Change Component Comment : Designator=R43 Old Comment=5.1K/1% New Comment=470R/1%
+Change Component Comment : Designator=U7 Old Comment=BQ27441-G1 New Comment=CW2015
+Change Component Comment : Designator=U1 Old Comment=SPX3819M5-L/TR New Comment=SPX3819M33-L/TR
+Added Component: Designator=LED3(LED0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家 免费查找封装"; Value = "封装库来自淘宝卖家ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=R52(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=B1-1
+Added Pin To Net: NetName=VBAT Pin=B1-3
+Added Pin To Net: NetName=GND Pin=C46-2
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=MP2617B_M0 Pin=LED3-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R41-1
+Added Pin To Net: NetName=VBAT Pin=R42-2
+Added Pin To Net: NetName=VBAT Pin=R43-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R44-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R45-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R52-2
+Added Pin To Net: NetName=MP2617B_M0 Pin=U5-36
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-4
+Added Pin To Net: NetName=GND Pin=U7-6
+Added Pin To Net: NetName=GND Pin=U7-9
+Added Pin To Net: NetName=CW_INT Pin=R44-1
+Added Pin To Net: NetName=CW_INT Pin=U5-38
+Added Pin To Net: NetName=CW_INT Pin=U7-5
+Added Net: Name=CW_INT
+Added Pin To Net: NetName=CW_SCL Pin=R52-1
+Added Pin To Net: NetName=CW_SCL Pin=U5-42
+Added Pin To Net: NetName=CW_SCL Pin=U7-7
+Added Net: Name=CW_SCL
+Added Pin To Net: NetName=CW_SDA Pin=R45-1
+Added Pin To Net: NetName=CW_SDA Pin=U5-39
+Added Pin To Net: NetName=CW_SDA Pin=U7-8
+Added Net: Name=CW_SDA
+Added Pin To Net: NetName=NetC46_1 Pin=C46-1
+Added Pin To Net: NetName=NetC46_1 Pin=R42-1
+Added Pin To Net: NetName=NetC46_1 Pin=U7-3
+Added Net: Name=NetC46_1
+Added Pin To Net: NetName=NetC47_2 Pin=C47-2
+Added Pin To Net: NetName=NetC47_2 Pin=R43-1
+Added Pin To Net: NetName=NetC47_2 Pin=U7-2
+Added Net: Name=NetC47_2
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R41-2
+Added Net: Name=NetLED3_1
+Change Class Name : Old Net Name=PowerDetective New Net Name=CW2015
+Added Member To Class: ClassName=MCU Member=Component LED3 green
+Added Member To Class: ClassName=MCU Member=Component R41 1K/1%
+Added Member To Class: ClassName=CW2015 Member=Component R44 4.7K/1%
+Added Member To Class: ClassName=CW2015 Member=Component R52 5.1K/1%
+Added Room: Name=BatteryCharge
+Added Room: Name=Boost
+Added Room: Name=Connector
+Added Room: Name=CW2015
+Added Room: Name=MCU
+Added Room: Name=OVP_OCP

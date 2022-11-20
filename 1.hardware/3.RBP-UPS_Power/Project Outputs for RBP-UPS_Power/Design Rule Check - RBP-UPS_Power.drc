@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\JosephKevin\Desktop\RBP-UPS_Power\1.hardware\3.RBP-UPS_Power\PCB\RBP-UPS_Power.PcbDoc
-Date     : 2022/10/30
-Time     : 2:01:00
+Date     : 2022/11/9
+Time     : 18:38:40
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
    Violation between Clearance Constraint: (Collision < 6mil) Between Pad B1-1(3278.11mil,-375.984mil) on Top Layer And Track (3346.457mil,-984.252mil)(3346.457mil,984.252mil) on Keep-Out Layer 
@@ -53,4 +53,4 @@ Rule Violations :0
 
 Violations Detected : 5
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
