@@ -6,7 +6,8 @@
     "array": "c",
     "string": "c",
     "string_view": "c",
-    "*.inc": "c"
+    "*.inc": "c",
+    "freertos.h": "c"
   },
   "idf.adapterTargetName": "esp32"
 }
